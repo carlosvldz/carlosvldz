@@ -1,6 +1,3 @@
-<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1syLq4vgLeRHtQiZgJtEtUUwcgjsoyOZ3/view?usp=sharing">
-
-
 # Hi, I'm Carlos :alien:
 
 Backend | Software Engineer :robot:. (In progress)
@@ -9,12 +6,9 @@ Platzi Master Student. :man_technologist:
 
 ## About me 
 
-:headphones: Musica | :globe_with_meridians: Tech | :video_game: Video games | :checkered_flag: F1
+:headphones: Musica | :globe_with_meridians: Tech | :video_game: Video games | :checkered_flag: F1 | :wolf: Husky :heart:
 
 - :earth_americas: I'm from Mexico City
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
-
 
 ## Social media :mailbox_with_no_mail:
 
