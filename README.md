@@ -6,7 +6,7 @@ Platzi Master Student. :man_technologist:
 
 ## About me 
 
-:headphones: Musica | :globe_with_meridians: Tech | :video_game: Video games | :checkered_flag: F1 | :wolf: Husky :heart:
+:headphones: Music | :globe_with_meridians: Tech | :video_game: Video games | :checkered_flag: F1 | :wolf: Husky :heart:
 
 - :earth_americas: I'm from Mexico City
 
