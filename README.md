@@ -1,6 +1,6 @@
 # Hi, I'm Carlos :alien:
 
-Backend | Software Engineer :robot:. (In progress)
+Backend | Software Engineer :robot:.
 
 Platzi Master Student. :man_technologist:
 
