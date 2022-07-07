@@ -1,8 +1,6 @@
 # Hi, I'm Carlos :alien:
 
-Backend | Software Engineer :robot:.
-
-Platzi Master Student. :man_technologist:
+Software Engineer | DevOps & Cloud Enthusiast :robot:.
 
 ## About me 
 
