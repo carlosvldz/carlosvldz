@@ -1,6 +1,6 @@
 # Hi, I'm Carlos :alien:
 
-Software Engineer | DevOps & Cloud Enthusiast :robot:.
+Cybersecurity Engineer | Blue Team | SOC Analyst |  :robot:.
 
 ## About me 
 
